@@ -195,4 +195,17 @@ body::-webkit-scrollbar-thumb{
         margin-left: 60px;
      }
     
+     .recipedetails{
+        width: 50%;
+        height: 40%;  
+        background-color: rgb(0, 255, 64);
+     }
+     form input{
+        padding: 12px;
+        font-size: 20px;
+        border: none;
+         border-radius: 12px;
+     }
+
+    
 }
